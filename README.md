@@ -97,5 +97,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost catboost torch 
 ---
 
 ### **Liên hệ**
-Nếu có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến dự án, vui lòng liên hệ qua email: **[your-email@example.com]**.
+Nếu có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến dự án, vui lòng liên hệ qua email: **[22028224@vnu.edu.vn]**.
 
